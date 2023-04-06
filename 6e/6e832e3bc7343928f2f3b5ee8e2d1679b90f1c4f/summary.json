@@ -1,1 +1,8 @@
-[]
+{
+    "bench.php": {
+        "instructions": "13924728690"
+    },
+    "symfony_demo": {
+        "instructions": "1127670359"
+    }
+}
