@@ -1,0 +1,11 @@
+{
+    "bench.php": {
+        "instructions": "47108141515"
+    },
+    "symfony_demo": {
+        "instructions": "712666314"
+    },
+    "wordpress_6.2": {
+        "instructions": "1555260172"
+    }
+}
